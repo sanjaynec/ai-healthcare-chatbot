@@ -24,7 +24,6 @@ This repo is for documentation and reference only — to analyze ideas and workf
 ❌ No Code Yet  
 🧠 Brainstorming and Notes Only
 
-## 👥 Authors
-- You (and your friend if collaborating)
+
 
 
